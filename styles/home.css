@@ -24,7 +24,7 @@ justify-content:space-between;
 
 #page-home header a{
 display: flex;
-color: var(--tile-color);
+color: var(--title-color);
 font-weight: 700;
 }
 
